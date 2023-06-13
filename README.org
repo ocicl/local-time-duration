@@ -1,0 +1,10 @@
+* local-time-duration
+
+Duration processing library built on top of local-time.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/enaeher/local-time-duration.git   |
+| commit  | fa20a4a  |
+| systems | local-time-duration |
+|---------+-------------------------------------------|
+
